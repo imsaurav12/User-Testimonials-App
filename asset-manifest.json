@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/imsaurav12/User-Testimonials-App.git/static/css/main.c1f6924e.css",
-    "main.js": "/imsaurav12/User-Testimonials-App.git/static/js/main.6ffebaff.js",
-    "index.html": "/imsaurav12/User-Testimonials-App.git/index.html",
-    "main.c1f6924e.css.map": "/imsaurav12/User-Testimonials-App.git/static/css/main.c1f6924e.css.map",
-    "main.6ffebaff.js.map": "/imsaurav12/User-Testimonials-App.git/static/js/main.6ffebaff.js.map"
+    "main.css": "/User-Testimonials-App/static/css/main.06bece81.css",
+    "main.js": "/User-Testimonials-App/static/js/main.213b4833.js",
+    "index.html": "/User-Testimonials-App/index.html",
+    "main.06bece81.css.map": "/User-Testimonials-App/static/css/main.06bece81.css.map",
+    "main.213b4833.js.map": "/User-Testimonials-App/static/js/main.213b4833.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f6924e.css",
-    "static/js/main.6ffebaff.js"
+    "static/css/main.06bece81.css",
+    "static/js/main.213b4833.js"
   ]
 }
