@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CourseHUB/static/css/main.c1f6924e.css",
-    "main.js": "/CourseHUB/static/js/main.6ffebaff.js",
-    "index.html": "/CourseHUB/index.html",
-    "main.c1f6924e.css.map": "/CourseHUB/static/css/main.c1f6924e.css.map",
-    "main.6ffebaff.js.map": "/CourseHUB/static/js/main.6ffebaff.js.map"
+    "main.css": "/imsaurav12/User-Testimonials-App.git/static/css/main.c1f6924e.css",
+    "main.js": "/imsaurav12/User-Testimonials-App.git/static/js/main.6ffebaff.js",
+    "index.html": "/imsaurav12/User-Testimonials-App.git/index.html",
+    "main.c1f6924e.css.map": "/imsaurav12/User-Testimonials-App.git/static/css/main.c1f6924e.css.map",
+    "main.6ffebaff.js.map": "/imsaurav12/User-Testimonials-App.git/static/js/main.6ffebaff.js.map"
   },
   "entrypoints": [
     "static/css/main.c1f6924e.css",
