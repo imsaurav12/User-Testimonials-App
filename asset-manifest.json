@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CourseHUB/static/css/main.c1f6924e.css",
+    "main.js": "/CourseHUB/static/js/main.6ffebaff.js",
+    "index.html": "/CourseHUB/index.html",
+    "main.c1f6924e.css.map": "/CourseHUB/static/css/main.c1f6924e.css.map",
+    "main.6ffebaff.js.map": "/CourseHUB/static/js/main.6ffebaff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1f6924e.css",
+    "static/js/main.6ffebaff.js"
+  ]
+}
