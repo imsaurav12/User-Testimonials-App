@@ -27,7 +27,8 @@ const Testimonial = (props) => {
   }
 
   function surpriseHandler() {
-    // logic to go to a random review
+    let randomIndex = Math.floor(Math.random()*reviews.length);
+    setIndex(randomIndex);
   }
 
   return (
@@ -59,9 +60,6 @@ const Testimonial = (props) => {
     </button>
   </div>
 </div>
-
-    
-
   );
 };
 
